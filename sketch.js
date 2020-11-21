@@ -74,54 +74,41 @@ function draw() {
   stroke("red");
   text('LUCKY WIN BLOCK : Be the winner, if your chosen block fills first.',300,40);
 
-  /*strokeWeight(2);
-  stroke("red");*/
-  textSize(20);
-  //fill("white");
-  text('1st block',20,420);
 
   textSize(20);
-  //fill("white");
+  text('1st block',20,420);
+  
+  textSize(20);
   text('2nd block',120,420);
 
   textSize(20);
-  //fill("white");
   text('3rd block',230,420);
 
   textSize(20);
-  //fill("white");
   text('4th block',340,420);
 
   textSize(20);
-  //fill("white");
   text('5th block',450,420);
 
   textSize(20);
-  //fill("white");
   text('6th block',560,420);
 
   textSize(20);
-  //fill("white");
   text('7th block',670,420);
 
   textSize(20);
- // fill("white");
   text('8th block',780,420);
 
   textSize(20);
- // fill("white");
   text('9th block',890,420);
 
   textSize(20);
- // fill("white");
   text('10th block',1000,420);
 
   textSize(20);
-  //fill("white");
   text('11th block',1110,420);
 
   textSize(20);
-  //fill("white");
   text('12th block',1220,420);
 
 }
